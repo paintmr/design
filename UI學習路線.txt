@@ -8,17 +8,23 @@
 基礎：畫素描
 
 ————————————————————
-udemy ui课程搜索结果
-https://www.udemy.com/courses/search/?src=ukw&q=UI
-
-Complete Web & Mobile Designer in 2023: UI/UX, Figma, +more
-4.5  (19100 个评分) 106734 名学生  US$124.99，折后价US$24.99  27.5 小时 
-https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/
-
-Figma UI UX Design Essentials
-4.7  (13205 个评分) 57234 名学生  US$109.99 折后价US$24.99  11.5 小时
-https://www.udemy.com/course/figma-ux-ui-design-user-experience-tutorial-course/
+udemy ui课程
 
 User Experience Design Essentials - Adobe XD UI UX Design
-4.7 (43544 个评分) 175376 名学生  US$139.99 折后价US$24.99  9.5 小时
+4.7 (43,544 个评分) 175,376 名学生  US$139.99 折后价US$24.99  9.5 小时
 https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/
+
+Figma UI UX Design Essentials
+4.7  (13,205 个评分) 57,234 名学生  US$109.99 折后价US$24.99  11.5 小时
+https://www.udemy.com/course/figma-ux-ui-design-user-experience-tutorial-course/
+
+Complete Web & Mobile Designer in 2023: UI/UX, Figma, +more
+4.5  (19,100 个评分) 106,734 名学生  US$124.99，折后价US$24.99  27.5 小时 
+https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/
+
+————————————
+Coursera 课程问题
+Google时间太长，很多时间花在UX research上
+如果peer review得分低，有可能拿不到certificate
+其它的课程，比如University of Michigan，选的人较少，peer review找不到人打分，会负面影响成绩
+Make sure you submit your final assignment weeks before your next renewal date. The system will make sure there are no other peers to grade it for you to complete the course, that it will fail you, so you'll need to pay for another month just to re-submit the final assignment. Very disappointing,

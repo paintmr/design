@@ -3,7 +3,6 @@ a sales management app
 
 
 a mobile-ordering app 
-a mobile sales app 
 a staff scheduling app 
 
 a cafe in your favourite city / hometown
